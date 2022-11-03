@@ -15,6 +15,7 @@ public class Testcalc {
      */
     public static void main(String[] args) {
         System.out.println("muhammed");
+        System.out.println("merge test last");
     }
     
 }
