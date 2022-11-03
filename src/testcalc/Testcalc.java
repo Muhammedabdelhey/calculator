@@ -14,8 +14,7 @@ public class Testcalc {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Muhammed");
-        System.out.println("test merge");
+        System.out.println("muhammed");
     }
     
 }
